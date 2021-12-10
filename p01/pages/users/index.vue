@@ -4,7 +4,7 @@
      <h2>Display User Table </h2>
     <table> 
         <tr> 
-           <th>Name </th>
+           <th>Name</th>
         </tr>
         <tr> 
             <td>A</td>
@@ -18,8 +18,3 @@
        </table>
 </div>
 </template>
-<script>
-export default {
-  layout: 'newLayout'
-}
-</script>
